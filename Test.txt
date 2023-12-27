@@ -1,0 +1,3 @@
+Jenkins is an open-source automation server that helps automate the building, testing, and deploying of software.
+It's a Java-based platform with plugins for continuous integration.
+Jenkins is a server-based system that runs in servlet containers like Apache Tomcat.
